@@ -1,8 +1,8 @@
 image: Ubuntu1804
 stack: node 12
-branches: 
-only: 
-- main
+branches:
+  only:
+    - main
 cashe: node_modules
 install:
 - nom install
