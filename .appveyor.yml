@@ -3,7 +3,7 @@ stack: node 12
 branches:
   only:
     - main
-cashe: node_modules
+cache: node_modules
 install:
 - nom install
 build: off
