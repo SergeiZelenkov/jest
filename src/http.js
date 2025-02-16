@@ -1,5 +1,5 @@
-export function httpGet () {
-   return "{}";
+export default function httpGet() {
+  return '{}';
 }
 
-//mock
+// mock
